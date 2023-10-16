@@ -1,7 +1,21 @@
-## Hi there 👋
+This is the organisation page of the Speech and Hearing Research Group at the University of Sheffield. 
+The group conduts utting edge research in speech and pereption sience and tehnology since the 1980s. 
+Academic members of the group are 
+ * Prof. Guy Brown 
+ * Prof. Heidi Christensen
+ * Prof. Phil Green (emeritus) 
+ * Dr. Stefan Goetze
+ * Dr. Yoshi Gotoh  
+ * Prof. Thomas Hain (Head of group) 
+ * Prof. Roger Moore
+ * Dr. Anton Ragni
 
 
-The Speech and Hearing Research Group at the University of Sheffield is the owner of this page. 
+
+
+
+
+
 
 
 <!--
